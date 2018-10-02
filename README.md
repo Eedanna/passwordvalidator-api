@@ -1,5 +1,3 @@
-# passwordvalidator-api
-
 Follow the below steps to run this project
 
 Also install POSTMAN chrome plug-in to run and see all API output.
